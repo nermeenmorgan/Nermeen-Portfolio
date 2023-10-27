@@ -4,9 +4,9 @@ import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
 
 import logo from './logo/logo-black.png';
-import logotext from './logo/logo-text-black.png';
+import logotext from './logo/logo-text.png';
 
-import shaq from './personal/shaq.png';
+// import shaq from './personal/shaq.png';
 
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
@@ -44,20 +44,27 @@ import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
 
 import komikult from './projects/komikult.png';
-import leaderboard from './projects/leaderboard.png';
+// import leaderboard from './projects/leaderboard.png';
+import citylife from './projects/citylife.png';
+import edu from './projects/edu.png';
+import shop from './projects/shop.png';
 import math from './projects/math-magicians.png';
 import movie from './projects/movie-metro.png';
 import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
-
+import nermeen from './personal/nermeen.png'
 export {
+  citylife,
+  edu,
+  shop,
+  nermeen,
   bwmap,
   nairobi,
   whiteabstract,
   worldmap,
   logo,
   logotext,
-  shaq,
+  // shaq,
   backend,
   ux,
   frontend,
@@ -87,7 +94,6 @@ export {
   tailwind,
   typescript,
   komikult,
-  leaderboard,
   math,
   movie,
   nyeusi,
