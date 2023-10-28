@@ -100,9 +100,10 @@ const Experience = () => {
               sm:mt-[22px] mt-[16px] hover:bg-battleGray 
               hover:text-eerieBlack transition duration-[0.2s] 
               ease-in-out"
-              onClick={() =>
+              onClick={( ) =>
                 window.open(
                   'https://drive.google.com/file/d/1jJwEGfWRSlYCrrm21OlU4zfC7qALh4jN/view?usp=sharing',
+                  
                   '_blank'
                 )
               }
