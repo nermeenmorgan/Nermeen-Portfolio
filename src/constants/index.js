@@ -60,7 +60,7 @@ const services = [
     icon: ux,
   },
   {
-    title: 'MEARN Stack Development',
+    title: 'MERN Stack Development',
     icon: prototyping,
   },
 ];
@@ -141,7 +141,7 @@ const experiences = [
   },
 
   {
-    title: 'MEARN Stack Developer',
+    title: 'MERN Stack Developer',
     company_name: 'Freelance | remote',
     icon: kelhel,
     iconBg: '#333333',
